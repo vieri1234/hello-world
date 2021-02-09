@@ -1,2 +1,2 @@
 # hello-world
-print y
+print y print x
